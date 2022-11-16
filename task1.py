@@ -1,5 +1,4 @@
 a = int(input())
 b = int(input())
-c = int(input())
 
-print(max(a,b,c))
+print((a ** 2 + b ** 2) ** 0.5)
